@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGx5jidv5TFchltnmYIbzHs5CWJx8AQySTqFptdAdykszhEixgHARnuzWY6yIa7iM/rKQ1RjugGbY5kRLkKaug==",
+  "success": true,
+  "projectFilePath": "/home/veronica/Documents/GitHub/BoatingPractice/Tilemap Practice.csproj",
+  "expectedPackageFiles": [
+    "/home/veronica/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/veronica/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+/home/veronica/Documents/GitHub/BoatingPractice/.mono/temp/bin/Debug/Tilemap Practice.dll
+/home/veronica/Documents/GitHub/BoatingPractice/.mono/temp/bin/Debug/Tilemap Practice.pdb
+/home/veronica/Documents/GitHub/BoatingPractice/.mono/temp/obj/Debug/Tilemap Practice.csproj.AssemblyReference.cache
+/home/veronica/Documents/GitHub/BoatingPractice/.mono/temp/obj/Debug/Tilemap Practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/veronica/Documents/GitHub/BoatingPractice/.mono/temp/obj/Debug/Tilemap Practice.AssemblyInfoInputs.cache
+/home/veronica/Documents/GitHub/BoatingPractice/.mono/temp/obj/Debug/Tilemap Practice.AssemblyInfo.cs
+/home/veronica/Documents/GitHub/BoatingPractice/.mono/temp/obj/Debug/Tilemap Practice.csproj.CoreCompileInputs.cache
+/home/veronica/Documents/GitHub/BoatingPractice/.mono/temp/obj/Debug/Tilemap Practice.dll
+/home/veronica/Documents/GitHub/BoatingPractice/.mono/temp/obj/Debug/Tilemap Practice.pdb

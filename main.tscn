@@ -74,19 +74,28 @@ extents = Vector2( 37.8955, 56.0498 )
 [node name="Node2D" type="Node2D"]
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
-position = Vector2( 517, 302 )
-scale = Vector2( 4.01562, 2.34375 )
+position = Vector2( 847, 508.5 )
+scale = Vector2( 6.625, 3.95703 )
 frames = SubResource( 15 )
+frame = 4
 playing = true
 
 [node name="Character" type="Area2D" parent="."]
+position = Vector2( 907, 511 )
 script = ExtResource( 3 )
+Speed = 150
 
 [node name="Sprite" type="Sprite" parent="Character"]
-position = Vector2( 376, 294 )
+position = Vector2( 3, 2 )
 texture = ExtResource( 2 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Character"]
-position = Vector2( 368.097, 271.888 )
+position = Vector2( -5, -20 )
 rotation = 1.57466
 shape = SubResource( 16 )
+
+[node name="Camera2D" type="Camera2D" parent="Character"]
+position = Vector2( -7, 9 )
+current = true
+smoothing_enabled = true
+smoothing_speed = 3.0
