@@ -1,18 +1,18 @@
 using Godot;
 using System;
 
-public class Character : Area2D
+public class Character : RigidBody2D
 {
 	
 	[Export]
-	public int Speed = 100;
+	public int Speed = 150;
 	public Sprite character;
 	public override void _Ready()
 	{
 		character = (Sprite)GetNode("Sprite");
 	}
 
-	public override void _Process(float delta)
+	public override void _PhysicsProcess(float delta)
 	{
 		if (Input.IsActionPressed("moveleft"))
 		{
